@@ -2,3 +2,5 @@ This is the first file
 Add an additional line
 Add the third additional line
 I want to edit this file and hence this one has the fourth line
+I want to edit this file and hence this one has the fourth line
+I want to edit this file and hence this one has the fourth line
